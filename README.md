@@ -1,4 +1,4 @@
-# Attendance-Management-System
+# Result-Management-System
 
 Username -admin,
 Password -admin
